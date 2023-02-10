@@ -1,0 +1,16 @@
+.dock-container{
+    display: flex;
+    justify-content: center;
+
+}
+
+.dock {
+    position: absolute;
+    bottom: 0;
+}
+
+.dock img {
+    width: 70px;
+    cursor: pointer;
+}
+
